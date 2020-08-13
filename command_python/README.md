@@ -2,7 +2,11 @@
  
 ## ■ Intro
 엘리베이터 호출 및 호출 당시의 층수, 도착시 알림을 TTS로 제공 합니다.<br>
-EW11로 신형 코콤 월패드와 연동 하여 엘리베이터 층수 패킷 수신 가능 시에만 사용하실 수 있습니다.<br>
+
+### ■ Required
+1. EW11<br>
+2. 신형 코콤 월패드(엘리베이터 층수 패킷 수신 가능)<br>
+3. Naver TTS나 Google TTS 등<br>
  
 ## ■ How to Install
 (1) config 폴더 내에 command_python 폴더 추가 <br>
